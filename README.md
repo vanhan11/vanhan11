@@ -4,4 +4,3 @@
 </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vanhan11.vanhan11)](https://github.com/vanhan11) 
-[![GitHub followers](https://img.shields.io/github/followers/vanhan11.svg?style=social&label=Follow)](https://github.com/vanhan11?tab=followers)
