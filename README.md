@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Alvan . <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2> -->
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Alvan's GitHub Banner](./assets/)]
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/vanhan11)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
@@ -11,23 +11,8 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid/)
-- [How to Unit Test an HTTP Service in Angular](https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/)
-- [Use Named Exports over Default Exports in JavaScript](https://braydoncoyer.dev/blog/use-named-exports-over-default-exports-in-javascript/)
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
+I’m Alvan Hanani , a web developer, creative coder and self-proclaimed designer who specializes in front-end development.
+Want to know more about me? [Check out my portfolio.](https://)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -99,24 +84,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </details>
 
 <br>
-
-## 📣 How about an Office quote before you go?
-
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
->
-> <p>- Phyllis Lapin</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
-
-
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vanhan11.vanhan11)](https://github.com/vanhan11) 
